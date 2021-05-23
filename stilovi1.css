@@ -1,0 +1,195 @@
+<html>
+
+#myHeader {
+  color: purple;
+  padding: 40px;
+  text-align: center;
+}
+
+
+body {
+	background-image: url('pozadina3.jpg');
+	background-repeat: repeat;
+	font-family: verdana;
+}
+
+h1 {
+    background-color: #E7C7F3 ;
+	font-size: 40;
+	color: black;
+	text-align: center;
+	margin: 40px;
+	box-shadow: 3px 3px 3px white;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #B452D2;
+  color: white;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #111;
+}
+
+h2 {
+	font-family: verdana;
+	font-size: 30;
+	color: black;
+	padding: 10px;
+	text-shadow: 3px 3px WHITE;
+	background-color:#E7C7F3;
+}
+
+h3 {
+	font-family: verdana;
+	font-size: 30;
+	text-align: center;
+	color: black;
+	text-shadow: 3px 3px WHITE;
+}
+
+#Palic {
+	background-image: url('PalickoJezero.jpg');
+	width: 1025;
+	height: 400;
+	border: solid;
+	border-color: black;
+	border-width: thin;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+	
+#Tumane {
+	background-image: url('ManastirTumane.jpg');
+	width: 600;
+	height: 400;
+	border: solid;
+	border-color: black;
+	border-width: thin;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#Djerdap {
+	background-image: url('djerdap.jpg');
+	width: 1025;
+	height: 600;
+	border: solid;
+	border-color: black;
+	border-width: thin;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#Bosna {
+	background-image: url('bosna.jpg');
+	width: 1025;
+	height: 600;
+	border: solid;
+	border-color: black;
+	border-width: thin;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#Temisvar {
+	background-image: url('temisvar-ponuda.jpg');
+	width: 900;
+	height: 400;
+	border: solid;
+	border-color: black;
+	border-width: thin;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#Istanbul {
+	background-image: url('istanbul.jpg');
+	width: 1050;
+	height: 400;
+	border: solid;
+	border-color: black;
+	border-width: thin;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#Hurgada {
+	background-image: url('hurgada.jpg');
+	width: 800;
+	height: 500;
+	border: solid;
+	border-color: black;
+	border-width: thin;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#Limasol {
+	background-image: url('kipar.jpg');
+	width: 500;
+	height: 300;
+	border: solid;
+	border-color: black;
+	border-width: thin;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#Grcka {
+	background-image: url('neipori.jpg');
+	width: 600;
+	height: 400;
+	border: solid;
+	border-color: black;
+	border-width: thin;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#Mapa {
+	background-image: url('backapalanka.png');
+	width: 600;
+	height: 400;
+	border: solid;
+	border-color: black;
+	border-width: thin;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
